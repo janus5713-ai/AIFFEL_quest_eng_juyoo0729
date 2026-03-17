@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# AIFFEL_quest_eng_2
+
 AIFFEL_quest_eng_2
 ├── Computer_Vision
 │   ├── CV01
@@ -76,7 +75,3 @@ AIFFEL_quest_eng_2
 │   └── Py04
 │       └── README.md
 └── README.md
-
-=======
-# AIFFEL_quest_cr
->>>>>>> c277715fb6e1b8bd6388ad325ba7cb11cb6d60ff
